@@ -3,30 +3,150 @@
         {
             "PutRequest": {
                 "Item": {
-                  "Artist": {"S": "Iron Maiden"},
-                  "SongTitle": {"S": "Wasting Love"},
-                  "AlbumTitle": {"S": "Fear of the Dark Live"},
-                  "SongYear": {"S": "1992"}
+                  "Artist": {"S": "Gorillaz"},
+                  "SongTitle": {"S": "Orchestral Intro"},
+                  "AlbumTitle": {"S": "Plastic Beach"},
+                  "SongYear": {"S": "2010"}
                 }
             }
         },
         {
             "PutRequest": {
                 "Item": {
-                  "Artist": {"S": "Iron Maiden"},
-                  "SongTitle": {"S": "Weekend Warrior"},
-                  "AlbumTitle": {"S": "Fear of the Dark"},
-                  "SongYear": {"S": "1992"}
+                  "Artist": {"S": "Gorillaz"},
+                  "SongTitle": {"S": "Welcome to the World of the Plastic Beach"},
+                  "AlbumTitle": {"S": "Plastic Beach"},
+                  "SongYear": {"S": "2010"}
                 }
             }
         },
         {
+          "PutRequest": {
+              "Item": {
+                "Artist": {"S": "Gorillaz"},
+                "SongTitle": {"S": "White Flag"},
+                "AlbumTitle": {"S": "Plastic Beach"},
+                "SongYear": {"S": "2010"}
+              }
+          }
+        },
+        {
+          "PutRequest": {
+              "Item": {
+                "Artist": {"S": "Gorillaz"},
+                "SongTitle": {"S": "Rhinestone Eyes"},
+                "AlbumTitle": {"S": "Plastic Beach"},
+                "SongYear": {"S": "2010"}
+              }
+          }
+        },
+        {
+          "PutRequest": {
+              "Item": {
+                "Artist": {"S": "Gorillaz"},
+                "SongTitle": {"S": "Stylo"},
+                "AlbumTitle": {"S": "Plastic Beach"},
+                "SongYear": {"S": "2010"}
+              }
+          }
+        },
+        {
+          "PutRequest": {
+              "Item": {
+                "Artist": {"S": "Gorillaz"},
+                "SongTitle": {"S": "Superfast Jellyfish"},
+                "AlbumTitle": {"S": "Plastic Beach"},
+                "SongYear": {"S": "2010"}
+              }
+          }
+        },
+        {
+          "PutRequest": {
+              "Item": {
+                "Artist": {"S": "Gorillaz"},
+                "SongTitle": {"S": "Empire Ants"},
+                "AlbumTitle": {"S": "Plastic Beach"},
+                "SongYear": {"S": "2010"}
+              }
+          }
+        },
+        {
+          "PutRequest": {
+              "Item": {
+                "Artist": {"S": "Gorillaz"},
+                "SongTitle": {"S": "Gliter Freeze"},
+                "AlbumTitle": {"S": "Plastic Beach"},
+                "SongYear": {"S": "2010"}
+              }
+          }
+        },
+        {
+          "PutRequest": {
+              "Item": {
+                "Artist": {"S": "Gorillaz"},
+                "SongTitle": {"S": "Some Kind of Nature"},
+                "AlbumTitle": {"S": "Plastic Beach"},
+                "SongYear": {"S": "2010"}
+              }
+          }
+        },
+        {
+          "PutRequest": {
+              "Item": {
+                "Artist": {"S": "Gorillaz"},
+                "SongTitle": {"S": "On Melancholy Hill"},
+                "AlbumTitle": {"S": "Plastic Beach"},
+                "SongYear": {"S": "2010"}
+              }
+          }
+        },
+        {
+          "PutRequest": {
+              "Item": {
+                "Artist": {"S": "Gorillaz"},
+                "SongTitle": {"S": "Sweepstakes"},
+                "AlbumTitle": {"S": "Plastic Beach"},
+                "SongYear": {"S": "2010"}
+              }
+          }
+        },
+        {
+          "PutRequest": {
+              "Item": {
+                "Artist": {"S": "Gorillaz"},
+                "SongTitle": {"S": "Plastic Beach"},
+                "AlbumTitle": {"S": "Plastic Beach"},
+                "SongYear": {"S": "2010"}
+              }
+          }
+        },
+        {
+          "PutRequest": {
+              "Item": {
+                "Artist": {"S": "Gorillaz"},
+                "SongTitle": {"S": "To Binge"},
+                "AlbumTitle": {"S": "Plastic Beach"},
+                "SongYear": {"S": "2010"}
+              }
+          }
+        },
+        {
+          "PutRequest": {
+              "Item": {
+                "Artist": {"S": "Gorillaz"},
+                "SongTitle": {"S": "Cloud of Unknowing"},
+                "AlbumTitle": {"S": "Plastic Beach"},
+                "SongYear": {"S": "2010"}
+              }
+          }
+        },
+        {
             "PutRequest": {
                 "Item": {
-                  "Artist": {"S": "Iron Maiden"},
-                  "SongTitle": {"S": "Fear of the Dark"},
-                  "AlbumTitle": {"S": "Fear of the Dark Tour"},
-                  "SongYear": {"S": "1992"}
+                  "Artist": {"S": "Gorillaz"},
+                  "SongTitle": {"S": "Pirate Jet"},
+                  "AlbumTitle": {"S": "Plastic Beach"},
+                  "SongYear": {"S": "2010"}
                 }
             }
         }
